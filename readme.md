@@ -60,7 +60,3 @@ Resultado: _ _ _ a
 - Adicionar modo interativo sem argumentos.
 - Persistência de histórico de partidas.
 - Interface gráfica (Swing, JavaFX ou Web).
-
-## 📄 Licença
-
-Distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
